@@ -1,4 +1,7 @@
 # education
+
+golang:1.15.15:
+ubuntu20.04:
 将`GOPATH`设置为`/root/go`,拉取项目：
 ```
 cd $GOPATH/src && git clone https://github.com/sxguan/education.git
